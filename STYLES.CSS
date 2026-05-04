@@ -1,0 +1,44 @@
+span{
+    display:inline-block;
+    margin:20px;
+    padding:20px;
+}
+
+div{
+    border:2px solid crimson;
+    margin:20px;
+    padding:20px;
+}
+
+.error{
+    color: rgb(142, 78, 245);
+
+}
+
+.success{
+    color:rgb(44, 100, 252);
+}
+
+.success.feedback{
+    color: rgb(67, 195, 255);
+}
+
+h1{
+    color: greenyellow;
+}
+
+h2{ 
+    color: rgb(255, 255, 0);
+}
+
+h3{
+    color: orange;
+}
+
+h4{
+    color: red;
+}
+
+h5{ 
+    color: rgb(255, 123, 237);
+}
